@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<TIMNaviArrowList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <arrowList>
+    <TIMNaviArrowData>
+      <index>0</index>
+      <title>Sample_1</title>
+      <description>Sample 1 </description>
+    </TIMNaviArrowData>
+    <TIMNaviArrowData>
+      <index>1</index>
+      <title>Sample_2</title>
+      <description>Sample 2 </description>
+    </TIMNaviArrowData>
+    <TIMNaviArrowData>
+      <index>2</index>
+      <title>Sample_3</title>
+      <description></description>
+    </TIMNaviArrowData>
+    <TIMNaviArrowData>
+      <index>3</index>
+      <title>Sample_4</title>
+      <description>Sample 4 </description>
+    </TIMNaviArrowData>
+  </arrowList>
+</TIMNaviArrowList>
