@@ -1,4 +1,4 @@
-# TIMEnt.Unity
+## TIMEnt.Unity
 This is a library for Unity that able to efficient creation of VR /AR experience content.
 
 TIMEntertainment 에서 제작한 VR/AR 컨텐츠 제작용 라이브러리입니다.
@@ -11,7 +11,7 @@ TIMEnt.Unity구조도.pdf 파일을 보시면 구조를 파악하실 수 있습�
 
 감사합니다.
 
-# 적용방법
+## 적용방법
 1. 프로젝트에 TIMEnt.Unity 패키지 임포트
 2. 각 프로젝트에 알맞은 VR/AR SDK 설치
 3. TIMGameManger 프리팹을 하이어라키에 등록
@@ -25,4 +25,11 @@ TIMObjectManager 와 TIMSoundManager 를 생성
 TIMEventTask 객체를 생성해 Dictionary에 추가해 줌
 9. 플레이하여 테스트
 
-<2020.02.11 제작자 : 홍성욱 Ted>
+## 최종 업데이트
+* 2020.02.11
+
+## 개발자 정보
+* 홍성욱 
+* email : sungwooks@gmail.com
+* blog : http://tedhome.net
+* linkedin : https://www.linkedin.com/in/greatted/
