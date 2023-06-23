@@ -31,5 +31,5 @@ TIMEventTask 객체를 생성해 Dictionary에 추가해 줌
 ## 개발자 정보
 * 홍성욱 
 * email : sungwooks@gmail.com
-* blog : http://tedhome.net
+* blog : http://blog.tedhome.net
 * linkedin : https://www.linkedin.com/in/greatted/
